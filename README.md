@@ -27,7 +27,8 @@ This project replicates the UI design of Amazon’s homepage and product layout 
   Clone the repo: 
   
   step: 1
-    git clone https://github.com/your-username/amazon-clone.git
+    git clone https://github.com/Kevinptl23/Amazon_clone.git
+    
     cd amazon-clone
   
   step: 2
